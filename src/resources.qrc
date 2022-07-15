@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>../img/commit.png</file>
+        <file>../img/delete.png</file>
+        <file>../img/new.png</file>
+        <file>../img/open.png</file>
+        <file>../img/refresh_1.png</file>
+        <file>../img/remove.png</file>
+        <file>../img/rollback.png</file>
+        <file>../img/backup.png</file>
+        <file>../img/save.png</file>
+        <file>../img/cancel_edit.png</file>
+        <file>../img/edit.png</file>
+        <file>../img/cloud.png</file>
+        <file>../img/setting.png</file>
+        <file>../img/cloud-computing.png</file>
+        <file>../img/search-file.png</file>
+        <file>../img/scan.png</file>
+    </qresource>
+</RCC>
